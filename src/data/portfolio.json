@@ -1,0 +1,34 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/thumbnail.png",
+      "title": "Multilingual Toxic Comment Classification",
+      "description": "Python , TensorFlow , Keras, NLP",
+      "url": "https://github.com/Magdy6565/Multilingual-Toxic-Comment-Classification"
+    },
+    {
+      "cover": "/portfolio/1/x.avif",
+      "title": "Travel Agency Web Application ",
+      "description": "NodeJs  , ExpressJS , React , MongoDB",
+      "url": "https://github.com/Magdy6565/Travel-Agency-Website"
+    },
+    {
+      "cover": "/portfolio/1/y.jfif",
+      "title": "Paint Application ",
+      "description": "Java",
+      "url": "https://github.com/Magdy6565/Paint_APP"
+    },
+    {
+      "cover": "/portfolio/1/z.png",
+      "title": "CPU Scheduling Simulation",
+      "description": "C",
+      "url": "https://github.com/Magdy6565/CPU-Scheduling-Simulation"
+    },
+    {
+      "cover": "/portfolio/1/ss.png",
+      "title": "Car Rental System Web Application",
+      "description": "PHP , MYSQL ",
+      "url": "https://github.com/Magdy6565/Car_Rental_Sytem"
+    }
+  ]
+}
